@@ -1,0 +1,23 @@
+<html>
+<head>
+<title>Table</title>
+</head>
+<body>
+<table border="1" cellpadding="20" cellspacing="50" bgcolor="pink">
+<caption align="top">table-1</caption>
+<img src="/home/Sem6B12/Desktop/british-shorthair-kitten-silver-color-260nw-1510641710.jpg" width="150" height="150" />
+<tr>
+<th>name</th>
+<th>salary</th>
+</tr>
+<tr>
+<td>abc</td>
+<td>100000</td>
+</tr>
+<tr>
+<td>xyz</td>
+<td>200000</td>
+</tr>
+</table>
+</body>
+</html>
