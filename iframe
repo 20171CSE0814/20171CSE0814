@@ -1,0 +1,14 @@
+<html>
+<head>
+<title>frames</title>
+</head>
+<body>
+<p>document content goes here....</p>
+
+<iframe src="/home/Sem6B12/20171cse0814/webpage" width="777" height="888">
+sorry does not support
+</iframe>
+
+<p>document content goes here....</p>
+</body>
+</html>
