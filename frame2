@@ -1,0 +1,13 @@
+<html>
+<head>
+<title> </title>
+</head>
+<body style="background-color:lightgreen;">
+<p>welcome to <span style="color:green">presidency</span> university bangalore</p>
+<p style="text-align:center; text-decoration:underline;"><b>welcome to <span style="color:red">CSE</span> dept</b></p>
+<p style="text-align:center;">department of computer science has 3 branches<p>
+<ol type="I">
+<li>8<sup>th</sup> sem</li>
+<li>6<sup>th</sup> sem</li>
+<li>4<sup>th</sup> sem</li>
+</ol>
